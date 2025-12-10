@@ -1,6 +1,6 @@
 # Zelda: Breath of the Wild - Food Analysis AI
 
-## Alunos: Stênio Gabriel Botelho do Carmo, Renato Xavier Portela Giordano
+## Alunos: Stênio Gabriel Botelho do Carmo, Maria Eduarda Ribeiro Ramos
 
 Este projeto aplica técnicas de Ciência de Dados e Machine Learning para analisar as mecânicas de culinária do jogo *The Legend of Zelda: Breath of the Wild*.
 
