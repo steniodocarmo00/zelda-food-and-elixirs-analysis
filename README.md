@@ -10,7 +10,7 @@ O objetivo é entender matematicamente como os ingredientes influenciam a cura (
 * **Regressão:** Prever a quantidade de cura (`Hearts`) baseada nos atributos numéricos e categóricos dos ingredientes.
 * **Classificação:** Prever se um ingrediente gera efeitos especiais (ex: *Hasty*, *Mighty*) com base em sua categoria.
 
-## 🛠️ Tecnologias e Dependências
+## Tecnologias e Dependências
 Este projeto foi desenvolvido e testado especificamente com:
 
 * **Python 3.11.6**
@@ -33,7 +33,7 @@ Este projeto foi desenvolvido e testado especificamente com:
 * **RMSE:** ~1.70 (Melhor modelo: Huber Regressor via PyCaret)
 * **Descoberta:** A quantidade de cura não segue uma progressão linear suave baseada na duração ou tipo. Modelos complexos não superaram significativamente o *Baseline* (média simples), indicando que a cura funciona por "tiers" discretos, e não por uma fórmula contínua.
 
-## 🚀 Como Executar
+## Como Executar
 
 1. **Clonar o repositório:**
    ```bash
@@ -59,7 +59,7 @@ Este projeto foi desenvolvido e testado especificamente com:
 * **notebooks/**: Contém o notebook com toda a análise (EDA, Modelagem, Otimização).
 * **requirements.txt**: Lista de bibliotecas para reprodução
 
-* ## 📜 Fonte dos Dados e Licença
+* ## Fonte dos Dados e Licença
 
 * **Dataset:** Zelda Complete Food and Elixirs Dataset
 * **Fonte:** [Kaggle - Pavlos Nigur](https://www.kaggle.com/datasets/pavlosnigur/zelda-botw-food-complete)
