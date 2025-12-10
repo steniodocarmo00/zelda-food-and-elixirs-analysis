@@ -59,5 +59,9 @@ Este projeto foi desenvolvido e testado especificamente com:
 * **notebooks/**: Contém o notebook com toda a análise (EDA, Modelagem, Otimização).
 * **requirements.txt**: Lista de bibliotecas para reprodução
 
-## Fonte dos Dados
-* **Dataset Original:** [Zelda Complete Food and Elixirs Dataset](https://www.kaggle.com/datasets/pavlosnigur/zelda-botw-food-complete)
+* ## 📜 Fonte dos Dados e Licença
+
+* **Dataset:** Zelda Complete Food and Elixirs Dataset
+* **Fonte:** [Kaggle - Pavlos Nigur](https://www.kaggle.com/datasets/pavlosnigur/zelda-botw-food-complete)
+* **Licença:** CC0: Public Domain (Domínio Público)
+* **Nota Legal:** Este projeto utiliza dados de *The Legend of Zelda: Breath of the Wild* para fins estritamente educacionais e de pesquisa. Todos os direitos sobre a propriedade intelectual do jogo pertencem à Nintendo.
