@@ -1,0 +1,70 @@
+Class,Subclass,Material,Hearts,Effect class when cooked,Bonus effect when cooked,Duration increase
+Fruit,Fruit,Apple,1.0,,,0:30
+Fruit,Fruit,Fleet-Lotus Seeds,1.0,Hasty,,
+Fruit,Fruit,Hearty Durian,6.0,Hearty,max,
+Fruit,Fruit,Hydromelon,1.0,Chilly,,
+Fruit,Fruit,Mighty Bananas,1.0,Mighty,,
+Fruit,Fruit,Palm Fruit,2.0,,,0:30
+Fruit,Fruit,Spicy Pepper,1.0,Spicy,,
+Fruit,Fruit,Voltfruit,1.0,Electro,,
+Fruit,Fruit,Wildberry,1.0,,,0:30
+Mushroom,Mushroom,Big Hearty Truffle,6.0,Hearty,max,
+Mushroom,Mushroom,Chillshroom,1.0,Chilly,,
+Mushroom,Mushroom,Endura Shroom,2.0,Enduring,,
+Mushroom,Mushroom,Hearty Truffle,4.0,Hearty,max,
+Mushroom,Mushroom,Hylian Shroom,1.0,,,0:30
+Mushroom,Mushroom,Ironshroom,1.0,Tough,,
+Mushroom,Mushroom,Razorshroom,1.0,Mighty,,
+Mushroom,Mushroom,Rushroom,1.0,Hasty,,
+Mushroom,Mushroom,Silent Shroom,1.0,Sneaky,,
+Mushroom,Mushroom,Stamella Shroom,2.0,Energizing,,
+Mushroom,Mushroom,Sunshroom,1.0,Spicy,,
+Mushroom,Mushroom,Zapshroom,1.0,Electro,,
+Vegetable,Vegetable,Big Hearty Radish,8.0,Hearty,max,
+Vegetable,Vegetable,Endura Carrot,4.0,Enduring,,
+Vegetable,Vegetable,Fortified Pumpkin,1.0,Tough,,
+Vegetable,Vegetable,Hearty Radish,5.0,Hearty,max,
+Vegetable,Vegetable,Swift Carrot,1.0,Hasty,,
+Meat,Red Meat,Raw Meat,2.0,,,0:30
+Meat,Red Meat,Raw Prime Meat,3.0,,,0:30
+Meat,Red Meat,Raw Gourmet Meat,6.0,,,0:30
+Meat,Poultry,Raw Bird Drumstick,2.0,,,0:30
+Meat,Poultry,Raw Bird Thigh,3.0,,,0:30
+Meat,Poultry,Raw Whole Bird,6.0,,,0:30
+Seafood,Crab,Bright-Eyed Crab,2.0,Energizing,,
+Seafood,Crab,Ironshell Crab,2.0,Tough,,
+Seafood,Crab,Razorclaw Crab,2.0,Mighty,,
+Seafood,Fish and Snails,Armored Carp,1.0,Tough,,
+Seafood,Fish and Snails,Armored Porgy,1.0,Tough,,
+Seafood,Fish and Snails,Chillfin Trout,2.0,Chilly,,
+Seafood,Fish and Snails,Hearty Bass,4.0,Hearty,max,
+Seafood,Fish and Snails,Hearty Blueshell Snail,6.0,Hearty,max,
+Seafood,Fish and Snails,Hearty Salmon,8.0,Hearty,max,
+Seafood,Fish and Snails,Hyrule Bass,2.0,,,0:30
+Seafood,Fish and Snails,Mighty Carp,2.0,Mighty,,
+Seafood,Fish and Snails,Mighty Porgy,2.0,Mighty,,
+Seafood,Fish and Snails,Sizzlefin Trout,2.0,Spicy,,
+Seafood,Fish and Snails,Sanke Carp,2.0,,,0:30
+Seafood,Fish and Snails,Sneaky River Snail,2.0,Sneaky,,
+Seafood,Fish and Snails,Staminoka Bass,2.0,Energizing,,
+Seafood,Fish and Snails,Stealthfin Trout,2.0,Sneaky,,
+Seafood,Fish and Snails,Voltfin Trout,2.0,Electro,,
+Misc,Misc,Acorn,1.5,,,First Nut = 0:50 Additional = 0:30
+Misc,Misc,Bird Egg,2.0,,,First Egg = 1:30 Additional = 0:30
+Misc,Misc,Chickaloo Tree Nut,1.5,,,First Nut = 0:40 Additional = 0:30
+Misc,Misc,Courser Bee Honey,4.0,Energizing,,
+Misc,Misc,Goat Butter,,,,First Butter = 1:20 Additional = 0:30
+Misc,Misc,Hylian Rice,2.0,,,First Rice = 1:00 Additional = 0:30
+Misc,Misc,Goron Spice,,,,
+Misc,Misc,Tabantha Wheat,2.0,,,
+Misc,Misc,Fresh Milk,1.0,,,
+Misc,Misc,Cane Sugar,,,,First Sugar = 1:20 Additional = 0:30
+Flowers and Herbs,Flowers and Herbs,Armoranth,,Tough,,
+Flowers and Herbs,Flowers and Herbs,Blue Nightshade,,Sneaky,,
+Flowers and Herbs,Flowers and Herbs,Cool Safflina,,Chilly,,
+Flowers and Herbs,Flowers and Herbs,Electric Safflina,,Electro,,
+Flowers and Herbs,Flowers and Herbs,Hyrule Herb,2.0,,,0:30
+Flowers and Herbs,Flowers and Herbs,Mighty Thistle,,Mighty,,
+Flowers and Herbs,Flowers and Herbs,Silent Princess,4.0,Sneaky,,
+Flowers and Herbs,Flowers and Herbs,Swift Violet,,Hasty,,
+Flowers and Herbs,Flowers and Herbs,Warm Safflina,,Spicy,,
